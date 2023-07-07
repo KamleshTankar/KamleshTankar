@@ -1,4 +1,4 @@
-Hi My name is Kamlesh Dilip Tankar
+# Hi My name is Kamlesh Dilip Tankar
 
 #  Front End React Developer
 
@@ -7,6 +7,9 @@ Hi My name is Kamlesh Dilip Tankar
 . 🧠  Currently learning Next.js
 . 🤝  I'm open to collaborating on interesting projects as a developer
 
-Skills
+# Skills
+
 HTML5   CSS3   JavaScript   React   Sass   TailwindCSS
+
+# Socials
 
