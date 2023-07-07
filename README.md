@@ -2,7 +2,7 @@
 
 #  Front End React Developer
 
-🌍  I'm based in Belgrade, Serbia
+. 🌍  I'm based in Belgrade, Serbia
 
 . 🖥️  See my portfolio at Portfolio
 
