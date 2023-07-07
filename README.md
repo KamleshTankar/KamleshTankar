@@ -15,4 +15,5 @@
 HTML5   CSS3   JavaScript   React   Sass   TailwindCSS
 
 # Socials
+
 LINKEDIN 
