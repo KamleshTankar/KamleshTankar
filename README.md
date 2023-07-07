@@ -11,7 +11,7 @@
 * 🤝  I'm open to collaborating on interesting projects as a developer
 
 # Skills
-<img src="[https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/86886692/251755564-9edfb64e-ffa8-4476-8023-6044cc8b89a2.png)" width="200" height="400" />
+<img src="https://github.com/kamlesh2729/Kamleshdev/assets/86886692/9edfb64e-ffa8-4476-8023-6044cc8b89a2" width="200" height="400" />
 ![html5_logo_wordmark](https://github.com/kamlesh2729/Kamleshdev/assets/86886692/9edfb64e-ffa8-4476-8023-6044cc8b89a2) 
 ![css3-logo-wordmark](https://github.com/kamlesh2729/Kamleshdev/assets/86886692/0d2d4208-8c26-4e71-b9d7-56cfc628ea48)
 ![JavaScript_logo](https://github.com/kamlesh2729/Kamleshdev/assets/86886692/593937f8-1fa1-45dc-bde6-8fc8acb163da)
