@@ -2,11 +2,11 @@
 
 #  Front End React Developer
 
-* 🌍  I'm based in Belgrade, Serbia
+* 🌍  I'm based in Mumbai, India
 
 * 🖥️  See my portfolio at Portfolio
 
-* 🧠  Currently learning Next.js
+* 🧠  Currently learning React.js
 
 * 🤝  I'm open to collaborating on interesting projects as a developer
 
