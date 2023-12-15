@@ -16,6 +16,8 @@
 <img src="https://github.com/kamlesh2729/Kamleshdev/assets/86886692/de5cd59e-e7c5-4c5e-b02d-ebb9614c87e5" width="80" height="80" />    
 <img src="https://github.com/kamlesh2729/Kamleshdev/assets/86886692/593937f8-1fa1-45dc-bde6-8fc8acb163da" width="80" height="80" />    
 <img src="https://github.com/kamlesh2729/Kamleshdev/assets/86886692/44be262c-0586-41d4-a0eb-6c078f1998da" width="80" height="80" />    
+
+<img src="https://skillicons.dev/icons?i=git,html,css,tailwind,sass,js,react" />
    
 
 
