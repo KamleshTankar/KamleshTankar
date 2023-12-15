@@ -16,8 +16,7 @@
 <img src="https://github.com/kamlesh2729/Kamleshdev/assets/86886692/593937f8-1fa1-45dc-bde6-8fc8acb163da" width="80" height="80" />    
 <img src="https://github.com/kamlesh2729/Kamleshdev/assets/86886692/de5cd59e-e7c5-4c5e-b02d-ebb9614c87e5" width="80" height="80" />    
 <img src="https://github.com/kamlesh2729/Kamleshdev/assets/86886692/44be262c-0586-41d4-a0eb-6c078f1998da" width="80" height="80" />    
-<img src="https://github.com/kamlesh2729/Kamleshdev/assets/86886692/16cd80de-8f2f-4a9f-87eb-ea8307b0395f" width="80" height="80" />    
-<img src="https://github.com/kamlesh2729/Kamleshdev/assets/86886692/4b86f45d-5aaf-4441-99e8-4243122463b3" width="80" height="80" />    
+   
 
 
 # Socials
