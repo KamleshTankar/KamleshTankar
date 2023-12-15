@@ -1,8 +1,8 @@
 # Hi <img src="https://github.com/kamlesh2729/Kamleshdev/assets/86886692/bc5e2451-875a-4532-915c-22ed054635d4" width="30" height="30" /> My name is Kamlesh Dilip Tankar
 
-#  Front End React Developer
+#  Front End Developer
 
-* 🌍  I'm based in Mumbai, India
+* 🌍  I'm Front End React Developer based in Mumbai, India
 
 * 🖥️  See my portfolio at Portfolio
 
