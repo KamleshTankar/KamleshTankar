@@ -11,7 +11,7 @@
 * 🤝  I'm open to collaborating on interesting projects as a developer
 
 # Skills   
-<img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,materialui,js,react,redux,expressjs,nodejs,mongodb,postman,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,materialui,jquery,js,react,redux,expressjs,nodejs,mongodb,postman,git,github,vscode,figma" />
    
 
 
