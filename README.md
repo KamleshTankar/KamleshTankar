@@ -16,5 +16,5 @@
 
 
 # Socials
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin,portfolio" />
 LINKEDIN 
